@@ -8,7 +8,7 @@ tags: [githib, jekyll]
 
 ####Getting Set Up
 
-Github personal pages seemed like a nice alternative to hosting my own blog. I've wanted to use github as a sort of portfolio for a while and personal pages seemed like a good way to bring it all together.
+Github personal pages seemed like a nice alternative to hosting my own blog. I've wanted to use github as a sort of portfolio for a while and personal pages seemed like a good way to bring it all together.\\
 I looked around to see if anyone had come up with a handy way to create entries using Markdown and turned up Jekyll. A little more poking around and I found a Jekyll blog bootstrap and some decent free templates to get me up and running.
 
 
