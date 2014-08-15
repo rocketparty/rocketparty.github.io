@@ -28,9 +28,9 @@ kramdown:
 owner:
   name: Brandon Schmidt
   avatar: my-face.jpg
-  bio: "I'm here from the past to party with rockets and get up in your code."
+  bio: "I'm here from the past to party with rockets."
   email: brandonjs@mail.com
-  disqus-shortname:
+  disqus-shortname: rocketparty
   twitter: rocketparty
   facebook: #username
   google:
