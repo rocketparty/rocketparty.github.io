@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rocket Party
+title: "blog"
 tagline: Ruby, Rails, Javascript
 ---
 {% include JB/setup %}
