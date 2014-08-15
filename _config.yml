@@ -13,9 +13,9 @@ tagline: Site Tagline
 author :
   name : Brandon Schmidt
   email : brandonjs@mail.com
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : rocketparty
+  twitter : rocketparty
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
