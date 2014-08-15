@@ -24,13 +24,9 @@ The full set of tools I used to get up and running was
 
 
 
-To start [sign up for a github account](https://github.com/) and get set up to work on the command line. Once that's done get your personal pages account set up.
+To start [sign up for a github account](https://github.com/) and get set up to work on the command line. Once that's done get your personal pages account set up. You can follow git hub's own first steps instructions [here](https://pages.github.com/).
 
-You can follow git hub's own first steps instructions [here](https://pages.github.com/).
-
-Now that you have the foundation up and running head over to [Jekyll Bootstrap](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) and follow their easy to use Host on Github in 3 Minutes instructions.
-
-Jekyll Bootstrap is a scaffold for Jekyll that packs together a handful of useful rake tasks and a easy to use structure for a Jekyll based blog.
+Now that you have the foundation up and running head over to [Jekyll Bootstrap](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) and follow their easy to use Host on Github in 3 Minutes instructions. Jekyll Bootstrap is a scaffold for Jekyll that packs together a handful of useful rake tasks and a easy to use structure for a Jekyll based blog.
 
 At this point you should have a functioning blog that doesn't look too bad. Brush up on [Markdown](http://daringfireball.net/projects/markdown/) for creating posts and off you go.
 
@@ -39,5 +35,4 @@ At this point you should have a functioning blog that doesn't look too bad. Brus
 ####Post Setup Thoughts
 
 I probably packed too much into the initial setup. I also included a gussied up template for websites that I don't completely understand. I think that likely slowed down my appreciation for the simplicity of Jekyll.
-
 In the near future I'll probably strip out the crazy theme and make a better blog index, but for now I can start posting.
