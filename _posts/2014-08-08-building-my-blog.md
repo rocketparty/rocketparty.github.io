@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Building My Blog"
-description: ""
-category:
-tags: []
+description: "A rundown of the tools I used to make my google pages blog"
+category: [github]
+tags: [githib, jekyll]
 ---
 {% include JB/setup %}
 
@@ -15,12 +15,12 @@ I looked around to see if anyone had come up with a handy way to create entries 
 
 The full set of tools I used to get up and running was 
 
-1. [iTerm2](http://iterm2.com/)
-2. [vim](http://www.vim.org/download.php)
-3. [Mou](http://mouapp.com/)
-4. [Github](https://github.com/)
-5. [Jekyll](http://jekyllrb.com/)
-6. [Jekyll Bootstrap](http://jekyllbootstrap.com/)
+1. [iTerm2](http://iterm2.com/) - A better console for mac.
+2. [vim](http://www.vim.org/download.php) - General code editing.
+3. [Mou](http://mouapp.com/) - Markdown editor with previews.
+4. [Github](https://github.com/) - Version control
+5. [Jekyll](http://jekyllrb.com/) - Markdown parsing engine
+6. [Jekyll Bootstrap](http://jekyllbootstrap.com/) - Bootstrap scaffold for Jekyll
 
 
 
@@ -41,3 +41,4 @@ At this point you should have a functioning blog that doesn't look too bad. Brus
 
 I probably packed too much into the initial setup. I also included a gussied up template for websites that I don't completely understand. I think that likely slowed down my appreciation for the simplicity of Jekyll. 
 
+In the near future I'll probably strip out the crazy theme and make a better blog index, but for now I can start posting. 
