@@ -7,7 +7,6 @@ tags: [githib, jekyll]
 ---
 
 ####Getting Set Up
-
 Github personal pages seemed like a nice alternative to hosting my own blog. I've wanted to use github as a sort of portfolio for a while and personal pages seemed like a good way to bring it all together.
 
 I looked around to see if anyone had come up with a handy way to create entries using Markdown and turned up Jekyll. A little more poking around and I found a Jekyll blog bootstrap and some decent free templates to get me up and running.
@@ -28,7 +27,6 @@ Now that you have the foundation up and running head over to [Jekyll Bootstrap](
 At this point you should have a functioning blog that doesn't look too bad. Brush up on [Markdown](http://daringfireball.net/projects/markdown/) for creating posts and off you go.
 
 ####Post Setup Thoughts
-
 I probably packed too much into the initial setup. I also included a gussied up template for websites that I don't completely understand. I think that likely slowed down my appreciation for the simplicity of Jekyll.
 
 In the near future I'll probably strip out the crazy theme and make a better blog index, but for now I can start posting.
