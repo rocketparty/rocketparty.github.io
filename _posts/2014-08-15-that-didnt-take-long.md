@@ -2,6 +2,7 @@
 layout: post
 title: "That Didn't Take Long"
 modified:
+comments: true
 categories: [github]
 excerpt:
 tags: [githib, octopress, themes]

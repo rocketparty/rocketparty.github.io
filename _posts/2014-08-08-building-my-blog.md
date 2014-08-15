@@ -2,6 +2,7 @@
 layout: post
 title: "Building My Blog"
 description: "A rundown of the tools I used to make my google pages blog"
+comments: true
 category: [github]
 tags: [githib, jekyll]
 ---
