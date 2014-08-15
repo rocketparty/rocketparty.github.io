@@ -47,6 +47,18 @@ of those sections to manage the look and feel of the site. */
     -o-background-size: cover;
 }
 
+.party-logo {
+    font-size: 100px;
+    color: #cc0000;
+    font-family: monospace;
+}
+
+.party-logo-tagline {
+    font-size: 25px;
+    color: #cc0000;
+    font-family: monospace;
+}
+
 .about-section {
     height: 100%;
     padding-top: 150px;
