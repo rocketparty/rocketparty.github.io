@@ -2,6 +2,7 @@
 layout: post
 title: "Podcast App Fight To The Death"
 modified:
+comments: true
 categories: [apps]
 excerpt:
 tags: [iOS, app, podcast, overcast, instacast]
