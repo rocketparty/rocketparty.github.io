@@ -38,3 +38,7 @@ There aren't a lot of things you can do with a list of items and a play button. 
 Features Overcast has include smart speed, playlists, voice boost (fancy eq).
 
 I still haven't pulled the trigger on the reasonably priced $4.99 upgrade, which unlocks some of the preimum features, but if the next few days go well then I think I've found my new podcast player.
+
+####The Verdict
+
+If you're not completely in love with the podcast client you're currently using on your phone I would suggest giving Overcast a try. It's fast, relatively self-descriptive and attractive. 
