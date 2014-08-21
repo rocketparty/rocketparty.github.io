@@ -25,20 +25,24 @@ With that playing field of ex-podcast relationships staring back at me I was exc
 ####Vs.
 There aren't a lot of things you can do with a list of items and a play button. If you're some kind of goblin you can make a skeuomorphic, reel-to-reel interface for playing episodes. Or you can just kind of show the logo and a standard play/pause button. That being said, Instacast and Overcast both have a similar layout, Overcast manages to look a little more polished.
 
-**The list**
+#####The list
 <img src="{{ root_url }}/images/posts/subscriptions.jpg" />
 
 
-**Details**
+#####Details
 <img src="{{ root_url }}/images/posts/play_screen.jpg" />
 
 
 
 
-Features Overcast has include smart speed, playlists, voice boost (fancy eq).
+####Features
 
-I still haven't pulled the trigger on the reasonably priced $4.99 upgrade, which unlocks some of the preimum features, but if the next few days go well then I think I've found my new podcast player.
+Overcast additionally has smart speed, playlists, voice boost (fancy eq).
+
+
 
 ####The Verdict
+
+I still haven't pulled the trigger on the reasonably priced $4.99 upgrade, which unlocks some of the preimum features, but if the next few days go well then I think I've found my new podcast player.
 
 If you're not completely in love with the podcast client you're currently using on your phone I would suggest giving Overcast a try. It's fast, relatively self-descriptive and attractive.
