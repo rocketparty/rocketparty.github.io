@@ -41,4 +41,4 @@ I still haven't pulled the trigger on the reasonably priced $4.99 upgrade, which
 
 ####The Verdict
 
-If you're not completely in love with the podcast client you're currently using on your phone I would suggest giving Overcast a try. It's fast, relatively self-descriptive and attractive. 
+If you're not completely in love with the podcast client you're currently using on your phone I would suggest giving Overcast a try. It's fast, relatively self-descriptive and attractive.
