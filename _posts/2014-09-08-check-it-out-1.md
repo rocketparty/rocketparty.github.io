@@ -3,6 +3,7 @@ layout: post
 title: "Check It Out #1"
 modified:
 categories: [check it out]
+comments: true
 excerpt:
 tags: [javascript, chrome, angular]
 image:
