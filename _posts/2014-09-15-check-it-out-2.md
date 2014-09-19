@@ -26,10 +26,9 @@ I haven't used PHP in years, but this little guy seems to be all the rage on git
 
 
 ###Front End
----
 
 There are a lot of great front end tools out there these days. Some of the essentials are probably in this list.
-
+---
 
 **[Effortless Style](http://vimeo.com/101718785)**
 
