@@ -32,7 +32,7 @@ date: 2014-10-21T09:09:34-04:00
 		<th>Lollipop</th>
 		<th>32 GB, 64 GB</th>
 		<th>???</th>
-		<th>[Nexus 6](http://www.gsmarena.com/motorola_nexus_6-6604.php)</th>
+		<th> <a href="http://www.gsmarena.com/motorola_nexus_6-6604.php">Nexus 6</a> </th>
 	</tr>
 	<tr>
 		<th>Nexus 5</th>
@@ -43,7 +43,7 @@ date: 2014-10-21T09:09:34-04:00
 		<th>Android OS, v4.4 (KitKat), upgradable to v4.4.4 (KitKat), planned upgrade to v5.0 (Lollipop)</th>
 		<th>16GB, 32GB</th>
 		<th>$399 (32GB)</th>
-		<th>[Nexux 5](http://www.gsmarena.com/lg_nexus_5-5705.php)</th>
+		<th> <a href="http://www.gsmarena.com/lg_nexus_5-5705.php">Nexus 5</a> </th>
 	</tr>
 	<tr>
 		<th>Galaxy s5</th>
@@ -54,7 +54,7 @@ date: 2014-10-21T09:09:34-04:00
 		<th>v4.4.2 (KitKat)</th>
 		<th>Card slot	microSD, up to 128 GB Internal	16/32 GB, 2 GB RAM</th>
 		<th>$599 ($199.00 with contract)</th>
-		<th>[Galaxy s5](http://www.gsmarena.com/samsung_galaxy_s5-6033.php)</th>
+		<th> <a href="http://www.gsmarena.com/samsung_galaxy_s5-6033.php">Galaxy s5</a> </th>
 	</tr>
 	<tr>
 		<th>HTC One m8</th>
@@ -65,7 +65,7 @@ date: 2014-10-21T09:09:34-04:00
 		<th>Android OS, v4.4.2 (KitKat), upgradable to v4.4.3 (KitKat), planned upgrade to v5.0 (Lollipop)</th>
 		<th>Card slot	microSD, up to 128 GB Internal	16/32 GB, 2 GB RAM</th>
 		<th>$599 ($199.99)</th>
-		<th>[HTC One](http://www.gsmarena.com/htc_one_(m8)-6074.php)</th>
+		<th> <a href="http://www.gsmarena.com/htc_one_(m8)-6074.php">HTC One m8</a></th>
 	</tr>
 	<tr>
 		<th>iPhone 6</th>
@@ -76,7 +76,7 @@ date: 2014-10-21T09:09:34-04:00
 		<th>iOS8</th>
 		<th>16/64/128 GB</th>
 		<th>$650 ($299 64GB)</th>
-		<th>[iPhone 6](http://store.apple.com/us/buy-iphone/iphone6)</th>
+		<th> <a href="http://store.apple.com/us/buy-iphone/iphone6">iPhone 6</a> </th>
 	</tr>
 </table>
 
@@ -102,7 +102,7 @@ I'm also including the Moto G, it's not in direct competition with the other pho
 		<th>Android OS, v4.3 (Jelly Bean), upgradable to v4.4.4 (KitKat), planned upgrade to v5.0 (Lollipop)</th>
 		<th>8/16 GB</th>
 		<th>$179 ($50)</th>
-		<th>[Moto G](http://www.gsmarena.com/motorola_moto_g-5831.php)</th>
+		<th> <a href="http://www.gsmarena.com/motorola_moto_g-5831.php">Moto G</a> </th>
 	</tr>
 </table>
 
