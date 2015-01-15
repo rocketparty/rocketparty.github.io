@@ -5,9 +5,9 @@ tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: venice.jpg
+  credit: Brandon
+  creditlink: https://www.flickr.com/photos/savageaphid/15035072973/
 ---
 
 I'm a Developer at Chepri.com. Ohio native. Passionate about connecting solutions to problems. Love guitars, traveling and bourbon. 
