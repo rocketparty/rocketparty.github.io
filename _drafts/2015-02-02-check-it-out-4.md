@@ -1,12 +1,14 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
+layout: post
+title: "Links"
 modified:
-categories: {{ dir }}
+categories: [Links]
 comments: true
 excerpt:
-tags: []
+tags: [links]
 image:
   feature: check-it-out.jpg
   credit: Brandon Schmidt
+date: 2015-02-02T10:17:44-05:00
 ---
+

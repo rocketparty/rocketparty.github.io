@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Check It Out #2"
+title: "Link Grab Bag"
 modified:
-categories: [check it out]
+categories: [grab bag]
 comments: true
 excerpt:
 tags: [laravel, php, css, bootstrap]
@@ -14,7 +14,7 @@ date: 2014-09-15T10:20:15-04:00
 
 
 
-I've been in a bit of a front end mindset recently. 
+I've been in a bit of a front end mindset recently.
 
 
 ###Back End
@@ -34,25 +34,25 @@ There are a lot of great front end tools out there these days. Some of the essen
 
 **[Effortless Style](http://vimeo.com/101718785)**
 
-Heydon Pickering talks about css and how a content editor can start to think about it. 
+Heydon Pickering talks about css and how a content editor can start to think about it.
 
 
 **[Font awesome](http://fortawesome.github.io/Font-Awesome/icons/)**
 
-Giant collection of scalable vector icons. 
+Giant collection of scalable vector icons.
 
 **[Bootstrap](http://getbootstrap.com/2.3.2/)**
 
-Front end framework. 
+Front end framework.
 
 **[Solved by flexbox](http://philipwalton.github.io/solved-by-flexbox/)**
 
-Flexbox solutions to common problems. 
+Flexbox solutions to common problems.
 
 
 **[Auditing Your Css](http://alistapart.com/article/css-audits-taking-stock-of-your-code)**
 
-Tools and tips to audit your css code. 
+Tools and tips to audit your css code.
 
 
 ###Editors
@@ -60,4 +60,4 @@ Tools and tips to audit your css code.
 
 **[Brackets](http://brackets.io/)**
 
-An adobe backed open source editor for front end developers and designers. 
+An adobe backed open source editor for front end developers and designers.

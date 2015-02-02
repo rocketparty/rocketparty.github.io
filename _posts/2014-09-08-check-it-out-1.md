@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Check It Out #1"
+title: "Link Grab Bag"
 modified:
-categories: [check it out]
+categories: [grab bag]
 comments: true
 excerpt:
 tags: [javascript, chrome, angular]
@@ -18,13 +18,10 @@ The first of what I hope to be a regular series. This is going to be a hoarders 
 
 **[Dev Tool Secrets](http://devtoolsecrets.com/)**
 
-This one is cool. A nice collection of shortcuts, features and practices for using dev tools in all the major browsers. 
+This one is cool. A nice collection of shortcuts, features and practices for using dev tools in all the major browsers.
 
 
 
 **[Angular Dependency Injection](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)**
 
-Angular dependency injection explained. 
-
-
-
+Angular dependency injection explained.
