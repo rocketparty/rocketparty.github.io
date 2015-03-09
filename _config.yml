@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://fakeittillimakeit.com
+#url: http://fakeittillimakeit.com
+#url:  rocketparty.github.io
 title: Brandon Schmidt
 email: brandon.schmidt@gmail.com
 description: > # "Write an awesome description for your new site here.
@@ -17,6 +18,26 @@ description: > # "Write an awesome description for your new site here.
 # Build settings
 markdown: kramdown
 permalink: pretty
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Brandon Schmidt
+  avatar: my-new-face.jpg
+  bio: "...wut?"
+  email: brandonjs@mail.com
+  disqus-shortname: rocketparty
+  google:
+    plus: rocketparty
+    analytics: UA-53869025-1
+    verify:
+    ad-client:
+    ad-slot:
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -29,3 +50,6 @@ social:
     url: https://rocketparty.github.com/
   - title: linkedin
     url: https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile
+  # stackoverflow: #http://stackoverflow.com/users/123456/username
+  # instagram: #username
+  # lastfm: #username
