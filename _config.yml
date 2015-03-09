@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
+url: http://fakeittillimakeit.com
+title: Brandon Schmidt
+email: brandon.schmidt@gmail.com
+description: > # "Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
   description."
 
 # ----------------------- #
@@ -24,8 +24,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/rocketparty
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://rocketparty.github.com/
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile
