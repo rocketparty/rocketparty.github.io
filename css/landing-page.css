@@ -57,6 +57,74 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+
+
+.article-author-side h3 {
+  margin-bottom: 0;
+}
+.article-author-side p {
+  font-size: 80%;
+  font-style: italic;
+}
+.article-author-side a, .article-author-side a:hover {
+  border-bottom: 0 solid transparent;
+}
+
+.author-social {
+  display: block;
+  margin-bottom: 5px;
+  color: #111;
+}
+.author-social:visited {
+  color: #111;
+}
+.author-social .fa {
+  margin-right: 5px;
+}
+
+
+.article-author-side {
+  display: none;
+}
+.article-author-side .bio-photo {
+  max-width: 110px;
+  -moz-border-radius: 150px;
+  -webkit-border-radius: 150px;
+  border-radius: 150px;
+  /* future proofing */
+  -khtml-border-radius: 150px;
+  /* for old Konqueror browsers */
+}
+@media (min-width: 37.5em) {
+  .article-author-side {
+    display: block;
+  }
+  .article-author-side h3,
+  .article-author-side p,
+  .article-author-side .author-social {
+    display: block;
+    max-width: 125px;
+  }
+  .article-author-side h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .article-author-side p {
+    margin-bottom: 20px;
+  }
+  .article-author-side .author-social {
+    margin-bottom: 5px;
+  }
+}
+@media (min-width: 62em) {
+  .article-author-side h3,
+  .article-author-side .bio-photo,
+  .article-author-side p,
+  .article-author-side .author-social {
+    max-width: 150px;
+  }
+}
+
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;

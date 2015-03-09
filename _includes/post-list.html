@@ -5,25 +5,8 @@
         <div class="container">
 
             <div class="row">
-                <div class="article-author-side">
-                  {% if page.author %}
-                    {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-                  {% endif %}
-
-                  {% if author.avatar contains 'http' %}
-                    <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-                  {% else %}
-                    <img src="{{ site.url }}/img/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
-                  {% endif %}
-                  <h3>{{ author.name }}</h3>
-                  <p>{{ author.bio }}</p>
-                  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>{% endif %}
-                  {% if social.twitter %}<a href="http://twitter.com/{{ social.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>{% endif %}
-                  {% if social.linkedin %}<a href="http://linkedin.com/in/{{ social.linkedin }}" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>{% endif %}
-                  {% if social.instagram %}<a href="http://instagram.com/{{ social.instagram }}" class="author-social" target="_blank"><i class="fa fa-instagram"></i> Instagram</a>{% endif %}
-                  {% if social.github %}<a href="http://github.com/{{ social.github }}" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>{% endif %}
-                  {% if social.stackoverflow %}<a href="http://stackoverflow.com/users/{{ social.stackoverflow }}" class="author-social" target="_blank"><i class="fa fa-stack-overflow"></i> Stackoverflow</a>{% endif %}
-                  {% if social.lastfm %}<a href="http://lastfm.com/user/{{ social.lastfm }}" class="author-social" target="_blank"><i class="fa fa-music"></i> Last.fm</a>{% endif %}
+                <div class="article-author-side col-lg-3 col-sm-3">
+                  <h3>{{ post.date | date: '%m/%d/%Y' }}</h3>
                 </div>
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
@@ -33,18 +16,8 @@
                         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
                       {% else %}
                         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
                       {% endif %}
-                      {% unless post.next %}
-                        <h3>{{ post.date | date: '%Y' }}</h3>
-                      {% else %}
-                        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-                        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-                        {% if year != nyear %}
-                          <h3>{{ post.date | date: '%Y' }}</h3>
-                        {% endif %}
-                      {% endunless %}
-
+                      
                       <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
                     </article>
                 </div>
