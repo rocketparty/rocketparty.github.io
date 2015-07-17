@@ -1,22 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
   {% include head.html %}
 
-<body>
+  <body>
 
-  <div class="container">
     {% include header.html %}
 
-    {{ content }}
+    <!-- content start -->
 
-  </div>
-  {% include footer.html%}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-  <!--<script src="{{ "/assets/js/prism.js" | prepend: site.baseurl }}"></script> -->
-  <script src="{{ "/assets/js/site.js" | prepend: site.baseurl }}"></script>
+    <!-- content end -->
 
-</body>
+    {% include footer.html %}
+    {% include javascripts.html %}
+
+  </body>
 
 </html>
