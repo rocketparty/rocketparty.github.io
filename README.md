@@ -1,35 +1,19 @@
-# Landing Page Jekyll theme
+# README #
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+A simple blog template for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+Uses:
+* Twitter Bootstrap 3.2.0
+* Font Awesome 4.2.0
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
-description: The description of this service
----
-```
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+Here is a <a href="http://itsrifat.github.io/rifyll/" target="_blank">Demo</a>
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+To get started:
+* Fork this repo
+* Edit [_config.yml](_config.yml):
+  * Change logo_location
+* Edit [_data/menu.yml](_data/menu.yml) to edit menu
 
-===
-
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
+To create a post:
+* Create a **.md** or **.markdown** file in the _post directory. Add a thumbnail image for the post in the yml front matter, its shown as the post thumbnail in the homepage

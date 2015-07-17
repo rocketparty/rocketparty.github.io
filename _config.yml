@@ -1,55 +1,18 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
+# Site settings
+title: Site Title
+email: somename@somedomain.com
+description: "Site Description"
+logo_location: "http://placehold.it/100x100&text=LOGO"
 
-#url: http://fakeittillimakeit.com
-#url:  rocketparty.github.io
-title: Brandon Schmidt
-email: brandon.schmidt@gmail.com
-description: > # "Developer at Rocket Code. Guitar player for Desert Fires."
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  input: GFM
 
-# Site owner
-owner:
-  name: Brandon Schmidt
-  avatar: my-new-face.jpg
-  bio: "...wut?"
-  email: brandonjs@mail.com
-  twitter: rocketparty
-  github: rocketparty
-  linkedin: brandon-schmidt
-  disqus-shortname: rocketparty
-  google:
-    plus: rocketparty
-    analytics: UA-53869025-1
-    verify:
-    ad-client:
-    ad-slot:
+highlighter: pygments
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: twitter
-    url: https://twitter.com/rocketparty
-  - title: github
-    url: https://rocketparty.github.com/
-  - title: linkedin
-    url: https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile
-  # stackoverflow: #http://stackoverflow.com/users/123456/username
-  # instagram: #username
-  # lastfm: #username
+#Other Global Configuration
+exclude: ['README.md']
