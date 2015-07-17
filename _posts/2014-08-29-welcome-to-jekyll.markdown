@@ -4,7 +4,7 @@ title:  "I Hate Lorem ipsum"
 date:   2014-08-29 14:34:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/images/turkey.jpg
 ---
 I do not like Lorem Ipsum. It solved a content filler requirement. It's the front end version of "Hello World." Here's the problem, clients generally don't get it.
 
